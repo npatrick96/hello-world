@@ -5,7 +5,7 @@ About Me section that can be found on http://en.gravatar.com/npatrick96 as of Ju
 
 My name is Patrick Niyongabo. I am Rwandan. I am a student at Hendrix College majoring in  Computer Science with an International Business minor. 
 
-I spent the Spring Semester of 2016 studying abroad in England at Nottingham Trent University (Check out my Study Abroad blog posts series).
+I spent the Spring Semester of 2016 studying abroad in England at Nottingham Trent University. You can read more about my study abroad experience <a href="http://npatrick96.wordpress.com/" title = "Patrick Niyongabo Study Abroad Wordpress Blog" target = "\_blank">here</a>.
  
 Before going to college, I attended Petit Seminaire Saint Jean Nkumba for 6 years ( 3 yrs of Middle School and 3 yrs of High School)! 
 
