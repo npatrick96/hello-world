@@ -9,6 +9,7 @@ I spent the Spring Semester of 2016 studying abroad in England at Nottingham Tre
  
 Before going to college, I attended Petit Seminaire Saint Jean Nkumba for 6 years ( 3 yrs of Middle School and 3 yrs of High School)! 
 
-As a CompSci student, my goal is to become a *very good* software engineer/full-stack developer/internet entrepreneur. 
+As a CompSci student, my goal is to become an hybrid of a *very good* software engineer/full-stack developer and a successful internet entrepreneur. 
 
-My hobbies include traveling, reading, designing stuff, blogging, tweeting, coding, playing Fútbol and Fifa ;), .... the list goes on ...
+My hobbies include traveling, reading, designing stuff, blogging, tweeting, coding, playing Fútbol and Fifa, ...
+The list goes on ...
