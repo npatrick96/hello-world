@@ -1,10 +1,10 @@
-My website: //patrickniyongabo.com/
+My website: www.patrickniyongabo.com
 
-My tech blog: //medium.com/@npatrick96
+My tech blog: www.medium.com/@npatrick96
 
-Codepen profile: //codepen.io/npatrick96/
+Codepen profile: www.codepen.io/npatrick96
 
-Linkedin: //www.linkedin.com/in/npatrick96
+Linkedin: www.linkedin.com/in/npatrick96
 
 
 
